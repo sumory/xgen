@@ -1,0 +1,9 @@
+{
+  "name": "{{project}}",
+  "version": "0.0.1",
+  "description": "{{description}}",
+  "keywords": [],
+  "author": "{{name}} <{{email}}>",
+  "repository": "{{repository}}",
+  "dependencies": {}
+}

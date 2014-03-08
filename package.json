@@ -1,0 +1,17 @@
+{
+  "name": "xgen",
+  "version": "0.0.1",
+  "description": "a code template generator",
+  "main": "index.js",
+  "keywords": [
+    "generator",
+    "Node.js",
+    "template"
+  ],
+  "author": "sumory.wu",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.1.0",
+    "colors": "^0.6.2"
+  }
+}
