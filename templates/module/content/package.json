@@ -1,0 +1,16 @@
+{
+  "name": "{{m}}",
+  "version": "0.0.1",
+  "description": "{{description}}",
+  "main": "index.js",
+  "author": {
+    "name": "{{name}}",
+    "email": "{{email}}"
+  },
+  "bin": {
+    "{{m}}": "./index.js"
+  },
+  "repository": "https://github.com/sumory/{{m}}",
+  "license": "MIT",
+  "dependencies": {}
+}
