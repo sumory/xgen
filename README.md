@@ -2,6 +2,14 @@
 
 xgen, inspired by [ngen](https://github.com/visionmedia/ngen)
 
+
+## Install
+
+```
+npm install -g xgen
+```
+
+
 ## Usage
 
 ```  
@@ -10,12 +18,9 @@ Usage: xgen [options]
   Options:
 
     -h, --help                  output usage information
-    -V, --version               output the version number
+    -v, --version               output the version number
     -t, --template <string>     Use the template <template>
     -d, --destination <string>  Use the destination directory <dest>
-    -l, --list                  List all templates
-    -s, --show <string>         Show architecture of the template <template>
-    -V, --version               Show the current version
 
 
   Usage: xgen [options]

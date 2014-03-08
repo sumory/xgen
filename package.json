@@ -1,14 +1,20 @@
 {
   "name": "xgen",
-  "version": "0.0.1",
-  "description": "a code template generator",
+  "version": "0.0.3",
+  "description": "generate code from a given template",
   "main": "index.js",
   "keywords": [
-    "generator",
-    "Node.js",
+    "code generator",
     "template"
   ],
-  "author": "sumory.wu",
+  "author": {
+    "name": "sumory.wu",
+    "email": "sumory.wu@gmail.com"
+  },
+  "bin": {
+    "xgen": "./xgen.js"
+  },
+  "repository": "https://github.com/sumory/xgen",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.1.0",
